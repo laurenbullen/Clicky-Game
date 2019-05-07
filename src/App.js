@@ -51,7 +51,8 @@ class App extends Component {
     return(
       <Wrapper>
         <Header score={this.state.score} highScore={this.state.highScore}>
-          Game of Thrones Clicker: Don't Click an Image Twice
+          <div>Game of Thrones Clicker</div> 
+          <div>Don't click the same image twice!</div>
         </Header>
         {this.state.cards.map(card => (
           <Cards 

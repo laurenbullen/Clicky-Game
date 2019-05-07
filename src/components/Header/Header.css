@@ -1,14 +1,22 @@
 .header {
     width: 100%;
-    font-size: 2rem;
-    color: #2A77AE;
+    font-family: 'Courier New', Courier, monospace ;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: black;
     margin-bottom: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-right: 15px
   }
   
   .title {
-    float: left;
+    float: center;
+    text-align: center;
   }
   
   .scores {
     float: right;
+    /* font-weight: bold; */
+    font-size: 2rem
   }
