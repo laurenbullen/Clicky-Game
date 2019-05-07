@@ -17,6 +17,6 @@
   
   .scores {
     float: right;
-    /* font-weight: bold; */
+    font-weight: bold;
     font-size: 2rem
   }
