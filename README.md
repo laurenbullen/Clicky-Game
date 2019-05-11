@@ -8,3 +8,5 @@ The user objective is to click on as many images as possible without clicking on
 
 ## Author
 Lauren Bullen
+
+Deployed on Heroku: https://agile-shore-10873.herokuapp.com/
